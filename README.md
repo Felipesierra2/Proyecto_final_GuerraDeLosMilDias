@@ -12,7 +12,7 @@ Cada etapa introduce nuevas perspectivas, retos físicos y estrategias, ofrecien
 ## 🗺️ Niveles del juego
 
 ### 🕊️ Nivel 1: *El Mensajero del Campamento*
-**Contexto histórico / narrativo:**  
+**Contexto:**  
 En medio del fragor de la guerra, los liberales se refugian en campamentos improvisados entre las montañas.  
 El jugador encarna a un joven mensajero que debe moverse sigilosamente entre patrullas conservadoras para entregar un mensaje crucial.  
 
@@ -20,13 +20,13 @@ El jugador encarna a un joven mensajero que debe moverse sigilosamente entre pat
 Vista **cenital fija**. El jugador esquiva enemigos y obstáculos mientras evita proyectiles con movimiento parabólico.  
 
 **Reto principal:**  
-Entregar el mensaje antes de que el tiempo se agote ⏱️ sin ser visto ni atrapado.  
+Entregar el mensaje antes de que el tiempo se agote sin ser visto ni atrapado.  
 Precisión, lectura de patrones y gestión del tiempo son clave para superar el nivel.
 
 ---
 
 ### 🌊 Nivel 2: *El Cruce del Río*
-**Contexto histórico / narrativo:**  
+**Contexto:**  
 Tras completar la primera misión, el joven debe cruzar un río desbordado por la tormenta para llevar suministros a un grupo aliado.  
 El entorno hostil se convierte en el enemigo principal.  
 
@@ -41,7 +41,7 @@ La concentración y el control del equilibrio son esenciales para sobrevivir.
 ---
 
 ### ⚔️ Nivel 3: *La Batalla Final*
-**Contexto histórico / narrativo:**  
+**Contexto:**  
 El joven mensajero llega al frente del último gran enfrentamiento entre liberales y conservadores.  
 Ahora debe liderar un pequeño grupo en una batalla decisiva por la libertad.  
 
