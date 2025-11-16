@@ -23,6 +23,12 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(Proyecto_final_GuerraDeLosMilDias
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
+        GameScene.h GameScene.cpp
+        Entity.h Entity.cpp
+        Player.h Player.cpp
+        Enemy.h Enemy.cpp
+        PhysicsModel.h PhysicsModel.cpp
+        AIController.h AIController.cpp
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET Proyecto_final_GuerraDeLosMilDias APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR
