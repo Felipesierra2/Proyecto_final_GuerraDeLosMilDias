@@ -2,6 +2,7 @@
 #include <QMainWindow>
 
 class GameScene;
+class GameManager;
 class QGraphicsView;
 
 class MainWindow : public QMainWindow {
@@ -12,5 +13,6 @@ public:
 private:
     QGraphicsView *view_;
     GameScene *scene_;
+    GameManager *manager;
 };
 

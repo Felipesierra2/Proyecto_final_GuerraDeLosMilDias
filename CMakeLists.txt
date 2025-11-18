@@ -29,6 +29,11 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         Enemy.h Enemy.cpp
         PhysicsModel.h PhysicsModel.cpp
         AIController.h AIController.cpp
+        Level.h Level.cpp
+        Level1.h Level1.cpp
+        GameManager.h GameManager.cpp
+        Level2.h Level2.cpp
+        Level3.h Level3.cpp
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET Proyecto_final_GuerraDeLosMilDias APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR
